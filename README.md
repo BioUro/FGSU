@@ -23,35 +23,22 @@ Based on the above analysis, we input an image sequence of length L into the uni
 In summary, feature extraction from images is the most computationally intensive task. By using a unified encoder to extract features for all subtasks, we can significantly reduce the computational burden of the multi-task problem. The decoder for the features requires relatively less computational resources but greatly impacts the accuracy of the subtasks. Therefore, we designed differentiated structures for the classification decoder and segmentation decoder, and we created three different classifiers for the classification tasks to provide a curated design for each subtask. This approach allows us to construct a comprehensive artificial intelligence framework for laparoscopic surgery, achieving fine-grained perception of surgical scene information.
 
 ## Performance
-| Surgical phase (mAP) | Surgical step (mAP) | Surgical action triplet (mAP) | Segmentation (mIOU) |
-|---------------|---------------|---------------|  
-| 90.51 | 84.47 | 46.3 | 64.72 | 
-
 <table>  
   <thead>  
     <tr>  
-      <th rowspan="2"></th>  
-      <th colspan="3">Components AP</th>  
-      <th colspan="3">Association AP</th>  
-    </tr>  
-    <tr>  
-      <th>AP<sub>I</sub></th>  
-      <th>AP<sub>V</sub></th>  
-      <th>AP<sub>T</sub></th>  
-      <th>AP<sub>IV</sub></th>  
-      <th>AP<sub>IT</sub></th>  
-      <th>AP<sub>IVT</sub></th>  
+      <th>Surgical phase (mAP)</th>  
+      <th>Surgical step (mAP)</th>  
+      <th> Surgical action triplet (mAP)</th>  
+      <th>Segmentation (mIOU)</th>  
     </tr>  
   </thead>  
   <tbody>  
     <tr>  
       <td><strong>Values</strong></td>  
-      <td>92.0</td>  
-      <td>60.7</td>  
-      <td>38.3</td>  
-      <td>39.4</td>  
-      <td>36.9</td>  
-      <td>29.9</td>  
+      <td>90.51</td>  
+      <td>84.47</td>  
+      <td>46.3</td>  
+      <td>64.72</td>  
     </tr>  
   </tbody>  
 </table>

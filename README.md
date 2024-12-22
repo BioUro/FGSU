@@ -1,5 +1,5 @@
 # Enhancing Surgical Scenes Understanding through Deep Learning: Mapping Full-Granularity Surgical Atlas in Laparoscopic Kidney Surgery Application
-**Guangdi Chu<sup>1#</sup>, Yuan Gao<sup>2, 3#</sup>, Wei Jiao<sup>1, 4#</sup>, Guipeng Wang<sup>1</sup>, Chengjun Li<sup>1</sup>, Fengyuan Zhang<sup>1</sup>, Pengfei Zhang<sup>5</sup>, Xu Han<sup>1</sup>, Zhiyuan Mi<sup>1</sup>, Jingkai Wang<sup>6</sup>, Xiaohui Ren<sup>6</sup>, Jianning Wang<sup>7</sup>, Shuxin Wang<sup>3, 8*</sup>, Qian Dong<sup>9*</sup>, Haitao Niu<sup>1, 2*</sup>, Jianmin Li<sup>2, 3, 4*</sup>**
+Guangdi Chu<sup>1#</sup>, Yuan Gao<sup>2, 3#</sup>, Wei Jiao<sup>1, 4#</sup>, Guipeng Wang<sup>1</sup>, Chengjun Li<sup>1</sup>, Fengyuan Zhang<sup>1</sup>, Pengfei Zhang<sup>5</sup>, Xu Han<sup>1</sup>, Zhiyuan Mi<sup>1</sup>, Jingkai Wang<sup>6</sup>, Xiaohui Ren<sup>6</sup>, Jianning Wang<sup>7</sup>, Shuxin Wang<sup>3, 8*</sup>, Qian Dong<sup>9*</sup>, Haitao Niu<sup>1, 2*</sup>, Jianmin Li<sup>2, 3, 4*</sup>
 1. Department of Urology, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.  
 2. Institute of Medical Robotics and Intelligent Systems of Tianjin University, Tianjin, China.  
 3. Key Laboratory of Mechanism Theory and Equipment Design, Ministry of Education, Tianjin, China.  

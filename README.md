@@ -42,5 +42,3 @@ In summary, feature extraction from images is the most computationally intensive
   </tbody>  
 </table>
 
-## Video Demo
-[![Video Thumbnail](files/video.mp4)]

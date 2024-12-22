@@ -34,7 +34,6 @@ In summary, feature extraction from images is the most computationally intensive
   </thead>  
   <tbody>  
     <tr>  
-      <td><strong>Values</strong></td>  
       <td>90.51</td>  
       <td>84.47</td>  
       <td>46.3</td>  

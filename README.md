@@ -26,3 +26,32 @@ In summary, feature extraction from images is the most computationally intensive
 | Surgical phase (mAP) | Surgical step (mAP) | Surgical action triplet (mAP) | Segmentation (mIOU) |
 |---------------|---------------|---------------|  
 | 90.51 | 84.47 | 46.3 | 64.72 | 
+
+<table>  
+  <thead>  
+    <tr>  
+      <th rowspan="2"></th>  
+      <th colspan="3">Components AP</th>  
+      <th colspan="3">Association AP</th>  
+    </tr>  
+    <tr>  
+      <th>AP<sub>I</sub></th>  
+      <th>AP<sub>V</sub></th>  
+      <th>AP<sub>T</sub></th>  
+      <th>AP<sub>IV</sub></th>  
+      <th>AP<sub>IT</sub></th>  
+      <th>AP<sub>IVT</sub></th>  
+    </tr>  
+  </thead>  
+  <tbody>  
+    <tr>  
+      <td><strong>Values</strong></td>  
+      <td>92.0</td>  
+      <td>60.7</td>  
+      <td>38.3</td>  
+      <td>39.4</td>  
+      <td>36.9</td>  
+      <td>29.9</td>  
+    </tr>  
+  </tbody>  
+</table>

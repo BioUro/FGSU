@@ -43,7 +43,4 @@ In summary, feature extraction from images is the most computationally intensive
 </table>
 
 ## Video Demo
-<video controls width="600">  
-  <source src="files/video.mp4" type="video/mp4">  
-  Your browser does not support the video tag.  
-</video>  
+[![Video Thumbnail](files/video.mp4)]

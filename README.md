@@ -1,6 +1,6 @@
 # Enhancing Surgical Scenes Understanding through Deep Learning: Mapping Full-Granularity Surgical Atlas in Laparoscopic Kidney Surgery Application
 ***Guangdi Chu, Yuan Gao, Wei Jiao, Guipeng Wang, Chengjun Li, Fengyuan Zhang, Pengfei Zhang, Xu Han, Zhiyuan Mi, Jingkai Wang, Xiaohui Ren, Jianning Wang, Shuxin Wang, Qian Dong, Haitao Niu, Jianmin Li***
-Guangdi Chu1#, Yuan Gao 2, 3#, Wei Jiao1, 4#, Guipeng Wang1, Chengjun Li1, Fengyuan Zhang1, Pengfei Zhang5, Xu Han1, Zhiyuan Mi1, Jingkai Wang6, Xiaohui Ren6, Jianning Wang7, Shuxin Wang3, 8*, Qian Dong9*, Haitao Niu1, 2*, Jianmin Li2, 3, 4* 
+Guangdi Chu^1#, Yuan Gao 2, 3#, Wei Jiao1, 4#, Guipeng Wang1, Chengjun Li1, Fengyuan Zhang1, Pengfei Zhang5, Xu Han1, Zhiyuan Mi1, Jingkai Wang6, Xiaohui Ren6, Jianning Wang7, Shuxin Wang3, 8*, Qian Dong9*, Haitao Niu1, 2*, Jianmin Li2, 3, 4* 
 
 1 Department of Urology, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.
 

@@ -3,13 +3,21 @@
 Guangdi Chu1#, Yuan Gao 2, 3#, Wei Jiao1, 4#, Guipeng Wang1, Chengjun Li1, Fengyuan Zhang1, Pengfei Zhang5, Xu Han1, Zhiyuan Mi1, Jingkai Wang6, Xiaohui Ren6, Jianning Wang7, Shuxin Wang3, 8*, Qian Dong9*, Haitao Niu1, 2*, Jianmin Li2, 3, 4* 
 
 1 Department of Urology, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.
+
 2 Institute of Medical Robotics and Intelligent Systems of Tianjin University, Tianjin, China.
+
 3 Key Laboratory of Mechanism Theory and Equipment Design, Ministry of Education, Tianjin, China.
+
 4 Telemedicine and Equipment Technology Innovation Center, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.
+
 5 Department of Urology, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China
+
 6 Qingdao Medical College, Qingdao University, Qingdao, Shandong, China.
+
 7 Department of Urology, The First Affiliated Hospital of Shandong First Medical University & Shandong Provincial Qianfoshan Hospital, Shandong Medicine and Health Key Laboratory of Organ Transplantation and Nephrosis, Shandong institute of Nephrology, Jinan, Shandong, China. 
+
 8 Chongqing University, Chongqing, China.
+
 9 Department of Pediatric Surgery, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.
 
 ## Abstract 

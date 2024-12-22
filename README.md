@@ -1,24 +1,23 @@
 # Enhancing Surgical Scenes Understanding through Deep Learning: Mapping Full-Granularity Surgical Atlas in Laparoscopic Kidney Surgery Application
 ***Guangdi Chu, Yuan Gao, Wei Jiao, Guipeng Wang, Chengjun Li, Fengyuan Zhang, Pengfei Zhang, Xu Han, Zhiyuan Mi, Jingkai Wang, Xiaohui Ren, Jianning Wang, Shuxin Wang, Qian Dong, Haitao Niu, Jianmin Li***
-Guangdi Chu^1#, Yuan Gao 2, 3#, Wei Jiao1, 4#, Guipeng Wang1, Chengjun Li1, Fengyuan Zhang1, Pengfei Zhang5, Xu Han1, Zhiyuan Mi1, Jingkai Wang6, Xiaohui Ren6, Jianning Wang7, Shuxin Wang3, 8*, Qian Dong9*, Haitao Niu1, 2*, Jianmin Li2, 3, 4* 
 
-1 Department of Urology, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.
+Department of Urology, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.
 
-2 Institute of Medical Robotics and Intelligent Systems of Tianjin University, Tianjin, China.
+Institute of Medical Robotics and Intelligent Systems of Tianjin University, Tianjin, China.
 
-3 Key Laboratory of Mechanism Theory and Equipment Design, Ministry of Education, Tianjin, China.
+Key Laboratory of Mechanism Theory and Equipment Design, Ministry of Education, Tianjin, China.
 
-4 Telemedicine and Equipment Technology Innovation Center, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.
+Telemedicine and Equipment Technology Innovation Center, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.
 
-5 Department of Urology, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China
+Department of Urology, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China
 
-6 Qingdao Medical College, Qingdao University, Qingdao, Shandong, China.
+Qingdao Medical College, Qingdao University, Qingdao, Shandong, China.
 
-7 Department of Urology, The First Affiliated Hospital of Shandong First Medical University & Shandong Provincial Qianfoshan Hospital, Shandong Medicine and Health Key Laboratory of Organ Transplantation and Nephrosis, Shandong institute of Nephrology, Jinan, Shandong, China. 
+Department of Urology, The First Affiliated Hospital of Shandong First Medical University & Shandong Provincial Qianfoshan Hospital, Shandong Medicine and Health Key Laboratory of Organ Transplantation and Nephrosis, Shandong institute of Nephrology, Jinan, Shandong, China. 
 
-8 Chongqing University, Chongqing, China.
+Chongqing University, Chongqing, China.
 
-9 Department of Pediatric Surgery, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.
+Department of Pediatric Surgery, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.
 
 ## Abstract 
 The comprehensive understanding of surgical scenes by computers is crucial for achieving intelligent surgery. However, the advancement and clinical application of artificial intelligence technology based on visual information in surgical research have been limited by the lack of high-quality annotated full-granularity datasets and efficient recognition strategies. In this study, we collected 41 laparoscopic kidney surgery videos and performed detailed annotations of surgical phases, steps, instruments, and surgical action triplets (SATs) based on strict criteria. Using deep learning algorithms, we achieved efficient and accurate multi-task recognition in one pass. The dataset formed in this study includes 141,443 frames of surgical phase and step annotations, 25,305 frames of SATs annotations, and 8,435 frames of surgical instrument annotations. Our framework achieves single-pass multi-task recognition with average accuracies of 90.51% and 84.47% for surgical phases and steps, respectively, while the average specificity for all SATs subtasks exceeds 80%. Compared to six excellent single-task algorithms, our method significantly improves computational efficiency and accuracy. The newly formed full-granularity dataset and surgical scene understanding framework provide new research data and effective exploration methods for the intelligence of surgical operations, and can be extended to more types of surgical procedures and more application scenarios such as robot-assisted surgery.

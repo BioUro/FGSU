@@ -5,15 +5,10 @@ Department of Urology, The Affiliated Hospital of Qingdao University, Qingdao, S
 Institute of Medical Robotics and Intelligent Systems of Tianjin University, Tianjin, China.  
 Key Laboratory of Mechanism Theory and Equipment Design, Ministry of Education, Tianjin, China.  
 Telemedicine and Equipment Technology Innovation Center, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.
-
-Department of Urology, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China
-
-Qingdao Medical College, Qingdao University, Qingdao, Shandong, China.
-
-Department of Urology, The First Affiliated Hospital of Shandong First Medical University & Shandong Provincial Qianfoshan Hospital, Shandong Medicine and Health Key Laboratory of Organ Transplantation and Nephrosis, Shandong institute of Nephrology, Jinan, Shandong, China. 
-
-Chongqing University, Chongqing, China.
-
+Department of Urology, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China.  
+Qingdao Medical College, Qingdao University, Qingdao, Shandong, China.  
+Department of Urology, The First Affiliated Hospital of Shandong First Medical University & Shandong Provincial Qianfoshan Hospital, Shandong Medicine and Health Key Laboratory of Organ Transplantation and Nephrosis, Shandong institute of Nephrology, Jinan, Shandong, China.  
+Chongqing University, Chongqing, China.  
 Department of Pediatric Surgery, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.
 
 ## Abstract 

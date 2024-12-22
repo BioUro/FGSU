@@ -1,15 +1,14 @@
 # Enhancing Surgical Scenes Understanding through Deep Learning: Mapping Full-Granularity Surgical Atlas in Laparoscopic Kidney Surgery Application
-***Guangdi Chu<sup>2, Yuan Gao, Wei Jiao, Guipeng Wang, Chengjun Li, Fengyuan Zhang, Pengfei Zhang, Xu Han, Zhiyuan Mi, Jingkai Wang, Xiaohui Ren, Jianning Wang, Shuxin Wang, Qian Dong, Haitao Niu, Jianmin Li***
-***Guangdi Chu<sup>1#</sup>, Yuan Gao<sup>2, 3#</sup>, Wei Jiao<sup>1, 4#</sup>, Guipeng Wang<sup>1</sup>, Chengjun Li<sup>1</sup>, Fengyuan Zhang<sup>1</sup>, Pengfei Zhang<sup>5</sup>, Xu Han<sup>1</sup>, Zhiyuan Mi<sup>1</sup>, Jingkai Wang<sup>6</sup>, Xiaohui Ren<sup>6</sup>, Jianning Wang<sup>7</sup>, Shuxin Wang<sup>3, 8*</sup>, Qian Dong<sup>9*</sup>, Haitao Niu<sup>1, 2*</sup>, Jianmin Li<sup>2, 3, 4*</sup> ***
-Department of Urology, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.  
-Institute of Medical Robotics and Intelligent Systems of Tianjin University, Tianjin, China.  
-Key Laboratory of Mechanism Theory and Equipment Design, Ministry of Education, Tianjin, China.  
-Telemedicine and Equipment Technology Innovation Center, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.
-Department of Urology, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China.  
-Qingdao Medical College, Qingdao University, Qingdao, Shandong, China.  
-Department of Urology, The First Affiliated Hospital of Shandong First Medical University & Shandong Provincial Qianfoshan Hospital, Shandong Medicine and Health Key Laboratory of Organ Transplantation and Nephrosis, Shandong institute of Nephrology, Jinan, Shandong, China.  
-Chongqing University, Chongqing, China.  
-Department of Pediatric Surgery, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.
+***Guangdi Chu<sup>1#</sup>, Yuan Gao<sup>2, 3#</sup>, Wei Jiao<sup>1, 4#</sup>, Guipeng Wang<sup>1</sup>, Chengjun Li<sup>1</sup>, Fengyuan Zhang<sup>1</sup>, Pengfei Zhang<sup>5</sup>, Xu Han<sup>1</sup>, Zhiyuan Mi<sup>1</sup>, Jingkai Wang<sup>6</sup>, Xiaohui Ren<sup>6</sup>, Jianning Wang<sup>7</sup>, Shuxin Wang<sup>3, 8*</sup>, Qian Dong<sup>9*</sup>, Haitao Niu<sup>1, 2*</sup>, Jianmin Li<sup>2, 3, 4*</sup>***
+1. Department of Urology, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.  
+2. Institute of Medical Robotics and Intelligent Systems of Tianjin University, Tianjin, China.  
+3. Key Laboratory of Mechanism Theory and Equipment Design, Ministry of Education, Tianjin, China.  
+4. Telemedicine and Equipment Technology Innovation Center, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.
+5. Department of Urology, The First Affiliated Hospital of Anhui Medical University, Hefei, Anhui, China.  
+6. Qingdao Medical College, Qingdao University, Qingdao, Shandong, China.  
+7. Department of Urology, The First Affiliated Hospital of Shandong First Medical University & Shandong Provincial Qianfoshan Hospital, Shandong Medicine and Health Key Laboratory of Organ Transplantation and Nephrosis, Shandong institute of Nephrology, Jinan, Shandong, China.  
+8. Chongqing University, Chongqing, China.  
+9. Department of Pediatric Surgery, The Affiliated Hospital of Qingdao University, Qingdao, Shandong, China.
 
 ## Abstract 
 The comprehensive understanding of surgical scenes by computers is crucial for achieving intelligent surgery. However, the advancement and clinical application of artificial intelligence technology based on visual information in surgical research have been limited by the lack of high-quality annotated full-granularity datasets and efficient recognition strategies. In this study, we collected 41 laparoscopic kidney surgery videos and performed detailed annotations of surgical phases, steps, instruments, and surgical action triplets (SATs) based on strict criteria. Using deep learning algorithms, we achieved efficient and accurate multi-task recognition in one pass. The dataset formed in this study includes 141,443 frames of surgical phase and step annotations, 25,305 frames of SATs annotations, and 8,435 frames of surgical instrument annotations. Our framework achieves single-pass multi-task recognition with average accuracies of 90.51% and 84.47% for surgical phases and steps, respectively, while the average specificity for all SATs subtasks exceeds 80%. Compared to six excellent single-task algorithms, our method significantly improves computational efficiency and accuracy. The newly formed full-granularity dataset and surgical scene understanding framework provide new research data and effective exploration methods for the intelligence of surgical operations, and can be extended to more types of surgical procedures and more application scenarios such as robot-assisted surgery.
